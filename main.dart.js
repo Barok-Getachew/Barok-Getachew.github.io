@@ -98016,7 +98016,7 @@ e=A.bJ(A.aeN((r==null?$.V=B.m:r).aC(0,h,s).cx[b].d,B.dk,h,e),h,e)
 g=g.b
 r=A.a1(g*0.08)
 q=f*0.14
-p=A.lK("vectors/icon1.svg",h,B.br,g*0.09,h)
+p=A.lK("assets/vectors/icon1.svg",h,B.br,g*0.09,h)
 o=A.a1(g*0.03)
 n=f*0.25
 m=f*0.01
@@ -98025,7 +98025,7 @@ l=A.bJ(new A.cc(new A.aF(m,0,m,0),A.bf((l==null?$.V=B.m:l).aC(0,h,s).cx[b].a,h,A
 k=A.a1(g*0.022)
 j=$.V
 i=t.p
-return A.bB(h,A.dm(A.a([e,A.cj(A.a([r,new A.cc(new A.aF(q,0,q,0),p,h),o,l,k,new A.cc(new A.aF(m,0,m,0),A.bJ(A.bf((j==null?$.V=B.m:j).aC(0,h,s).cx[b].c,h,A.bj().$3$color$fontSize$fontWeight(B.i,12,B.j),B.X),h,n),h),A.a1(g*0.04),A.dm(A.a([A.a1(g*0.013),new A.ma(f,"vectors/github.png",new A.axH(b),h)],i),B.y,B.z,B.r)],i),B.b1,B.z,B.r)],i),B.y,B.z,B.r),B.n,h,h,B.Cm,h,h,h,f*0.65)},
+return A.bB(h,A.dm(A.a([e,A.cj(A.a([r,new A.cc(new A.aF(q,0,q,0),p,h),o,l,k,new A.cc(new A.aF(m,0,m,0),A.bJ(A.bf((j==null?$.V=B.m:j).aC(0,h,s).cx[b].c,h,A.bj().$3$color$fontSize$fontWeight(B.i,12,B.j),B.X),h,n),h),A.a1(g*0.04),A.dm(A.a([A.a1(g*0.013),new A.ma(f,"assets/vectors/github.png",new A.axH(b),h)],i),B.y,B.z,B.r)],i),B.b1,B.z,B.r)],i),B.y,B.z,B.r),B.n,h,h,B.Cm,h,h,h,f*0.65)},
 $S:84}
 A.axH.prototype={
 $0(){var s,r=$.f5()
@@ -98056,7 +98056,7 @@ f=f.b
 r=A.aeN((r==null?$.V=B.m:r).aC(0,g,s).cx[b].d,B.dk,f*0.6,e*0.35)
 q=A.a1(f*0.01)
 p=A.a1(f*0.08)
-o=A.lK("vectors/icon1.svg",g,B.br,f*0.05,g)
+o=A.lK("assets/vectors/icon1.svg",g,B.br,f*0.05,g)
 n=A.a1(f*0.04)
 m=$.V
 m=A.bf((m==null?$.V=B.m:m).aC(0,g,s).cx[b].a,g,A.bj().$3$color$fontSize$fontWeight(B.i,16,B.J),g)
@@ -98065,7 +98065,7 @@ k=e*0.003
 j=$.V
 i=f*0.013
 h=t.p
-return A.bB(g,A.dm(A.a([r,q,A.bJ(A.cj(A.a([p,o,n,m,l,new A.cc(new A.aF(k,0,k,0),A.bf((j==null?$.V=B.m:j).aC(0,g,s).cx[b].c,g,A.bj().$3$color$fontSize$fontWeight(B.i,12,B.j),B.X),g),A.a1(f*0.07),A.dm(A.a([A.a1(i),new A.ma(e,"vectors/github.png",new A.axF(b),g),A.a1(i)],h),B.y,B.z,B.r)],h),B.y,B.z,B.r),g,e*0.25)],h),B.y,B.z,B.r),B.n,g,g,new A.cS(B.bt,g,g,g,d,g,B.a8),g,g,g,e*0.7)},
+return A.bB(g,A.dm(A.a([r,q,A.bJ(A.cj(A.a([p,o,n,m,l,new A.cc(new A.aF(k,0,k,0),A.bf((j==null?$.V=B.m:j).aC(0,g,s).cx[b].c,g,A.bj().$3$color$fontSize$fontWeight(B.i,12,B.j),B.X),g),A.a1(f*0.07),A.dm(A.a([A.a1(i),new A.ma(e,"assets/vectors/github.png",new A.axF(b),g),A.a1(i)],h),B.y,B.z,B.r)],h),B.y,B.z,B.r),g,e*0.25)],h),B.y,B.z,B.r),B.n,g,g,new A.cS(B.bt,g,g,g,d,g,B.a8),g,g,g,e*0.7)},
 $S:84}
 A.axF.prototype={
 $0(){var s,r=$.f5()
@@ -98093,7 +98093,7 @@ l=A.a1(m)
 k=$.V
 j=g*0.04
 i=t.p
-return A.bB(h,A.cj(A.a([A.bJ(A.cj(A.a([r,q,p,n,l,A.bJ(A.bf((k==null?$.V=B.m:k).aC(0,h,o).cx[b].c,h,A.bj().$3$color$fontSize$fontWeight(B.i,12,B.J),B.X),h,f*0.7),A.a1(s),A.dm(A.a([A.a1(m),A.bJ(new A.mi(f,"vectors/github.png",new A.axD(b),h),j,h),A.a1(g*0.02),A.bJ(new A.mi(f,"vectors/linkedin.png",new A.axE(),h),j,h)],i),B.y,B.bl,B.r)],i),B.y,B.bl,B.r),h,f*0.75)],i),B.y,B.z,B.r),B.n,h,h,B.Cl,h,h,h,f*0.78)},
+return A.bB(h,A.cj(A.a([A.bJ(A.cj(A.a([r,q,p,n,l,A.bJ(A.bf((k==null?$.V=B.m:k).aC(0,h,o).cx[b].c,h,A.bj().$3$color$fontSize$fontWeight(B.i,12,B.J),B.X),h,f*0.7),A.a1(s),A.dm(A.a([A.a1(m),A.bJ(new A.mi(f,"assets/vectors/github.png",new A.axD(b),h),j,h),A.a1(g*0.02),A.bJ(new A.mi(f,"assets/vectors/linkedin.png",new A.axE(),h),j,h)],i),B.y,B.bl,B.r)],i),B.y,B.bl,B.r),h,f*0.75)],i),B.y,B.z,B.r),B.n,h,h,B.Cl,h,h,h,f*0.78)},
 $S:84}
 A.axD.prototype={
 $0(){var s,r=$.f5()
@@ -98563,7 +98563,7 @@ M(a){var s=A.bC(a,null,t.w).w
 A.ou($.br(),A.p2(),t.d)
 return new A.jf(new A.ax6(this,s.a),null)}}
 A.ax6.prototype={
-$2(a3,a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=this,a0=null,a1="assets/assets/vectors/icon1.svg",a2=a4.b
+$2(a3,a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=this,a0=null,a1="assets/vectors/icon1.svg",a2=a4.b
 if(a2>1200){a2=a.b
 s=a2.b
 r=A.a1(s*0.05)
