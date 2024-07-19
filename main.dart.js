@@ -98152,7 +98152,7 @@ a2=$.V
 a3=t.p
 a4=s*0.007
 a5=s*0.08
-return A.bB(a6,A.dm(A.a([p,o,n,A.bJ(new A.cc(new A.aF(m,0,m,0),A.cj(A.a([k,j,i,A.bJ(A.aFX(A.cj(A.a([h,f,e,d,c,b,a,a0,a1,g,A.bf((a2==null?$.V=B.m:a2).aC(0,a6,a7).CW.r,a6,A.bj().$3$color$fontSize$fontWeight(B.i,16,B.aj),B.X)],a3),B.y,B.z,B.r)),q*0.71,s*0.71),A.a1(l*0.02),A.dm(A.a([A.bf("Skills:",a6,A.bj().$3$color$fontSize$fontWeight(B.i,18,B.aj),B.X),A.a1(a4),A.hh("vectors/flutter.png",B.x,a6,a5),A.a1(a4),A.hh("vectors/django.png",B.x,a6,a5),A.a1(a4),A.hh("vectors/android.png",B.x,a6,a5),A.a1(a4),A.hh("vectors/java.png",B.x,a6,a5)],a3),B.y,B.z,B.r)],a3),B.b1,B.z,B.r),a6),q,a6)],a3),B.y,B.z,B.r),B.n,B.be,a6,a6,q,a6,a6,1/0)}}
+return A.bB(a6,A.dm(A.a([p,o,n,A.bJ(new A.cc(new A.aF(m,0,m,0),A.cj(A.a([k,j,i,A.bJ(A.aFX(A.cj(A.a([h,f,e,d,c,b,a,a0,a1,g,A.bf((a2==null?$.V=B.m:a2).aC(0,a6,a7).CW.r,a6,A.bj().$3$color$fontSize$fontWeight(B.i,16,B.aj),B.X)],a3),B.y,B.z,B.r)),q*0.71,s*0.71),A.a1(l*0.02),A.dm(A.a([A.bf("Skills:",a6,A.bj().$3$color$fontSize$fontWeight(B.i,18,B.aj),B.X),A.a1(a4),A.hh("assets/vectors/flutter.png",B.x,a6,a5),A.a1(a4),A.hh("assets/vectors/django.png",B.x,a6,a5),A.a1(a4),A.hh("assets/vectors/android.png",B.x,a6,a5),A.a1(a4),A.hh("assets/vectors/java.png",B.x,a6,a5)],a3),B.y,B.z,B.r)],a3),B.b1,B.z,B.r),a6),q,a6)],a3),B.y,B.z,B.r),B.n,B.be,a6,a6,q,a6,a6,1/0)}}
 A.LC.prototype={
 M(a){A.ou($.br(),A.p2(),t.d)
 return new A.jf(new A.a5j(A.bC(a,null,t.w).w.a),null)}}
@@ -98190,7 +98190,7 @@ a=$.V
 a0=t.p
 a1=a4*0.03
 a2=a4*0.006
-return A.bB(a3,A.dm(A.a([p,A.bJ(new A.cc(new A.aF(o,n,o,n),A.cj(A.a([m,new A.cc(new A.aF(a4*0.072,0,0,0),B.Z7,a3),l,A.bJ(A.aFX(A.cj(A.a([k,i,h,g,f,e,d,c,b,j,A.bf((a==null?$.V=B.m:a).aC(0,a3,q).CW.r,a3,A.bj().$3$color$fontSize$fontWeight(B.i,15,B.j),B.X)],a0),B.y,B.z,B.r)),s*0.73,a4*0.42),A.a1(r),A.dm(A.a([A.bf("Skills:",a3,A.bj().$3$color$fontSize$fontWeight(B.i,14,B.c7),B.X),A.a1(a4*0.007),A.bJ(A.hh("vectors/flutter.png",B.x,a3,a3),a3,a1),A.a1(a2),A.hh("vectors/django.png",B.x,a3,a1),A.a1(a2),A.hh("vectors/android.png",B.x,a3,a1),A.a1(a2),A.hh("vectors/java.png",B.x,a3,a1)],a0),B.y,B.z,B.r)],a0),B.b1,B.z,B.r),a3),s*1.18,a3)],a0),B.y,B.z,B.r),B.n,B.be,a3,a3,s*1.1,a3,a3,1/0)}if(a4>800&&a4<1200)return B.Bl
+return A.bB(a3,A.dm(A.a([p,A.bJ(new A.cc(new A.aF(o,n,o,n),A.cj(A.a([m,new A.cc(new A.aF(a4*0.072,0,0,0),B.Z7,a3),l,A.bJ(A.aFX(A.cj(A.a([k,i,h,g,f,e,d,c,b,j,A.bf((a==null?$.V=B.m:a).aC(0,a3,q).CW.r,a3,A.bj().$3$color$fontSize$fontWeight(B.i,15,B.j),B.X)],a0),B.y,B.z,B.r)),s*0.73,a4*0.42),A.a1(r),A.dm(A.a([A.bf("Skills:",a3,A.bj().$3$color$fontSize$fontWeight(B.i,14,B.c7),B.X),A.a1(a4*0.007),A.bJ(A.hh("assets/vectors/flutter.png",B.x,a3,a3),a3,a1),A.a1(a2),A.hh("assets/vectors/django.png",B.x,a3,a1),A.a1(a2),A.hh("assets/vectors/android.png",B.x,a3,a1),A.a1(a2),A.hh("assets/vectors/java.png",B.x,a3,a1)],a0),B.y,B.z,B.r)],a0),B.b1,B.z,B.r),a3),s*1.18,a3)],a0),B.y,B.z,B.r),B.n,B.be,a3,a3,s*1.1,a3,a3,1/0)}if(a4>800&&a4<1200)return B.Bl
 else return B.OI},
 $S:544}
 A.Qs.prototype={
@@ -98221,7 +98221,7 @@ d=$.V
 c=t.p
 b=q*0.007
 a=q*0.08
-return A.bB(a0,A.cj(A.a([r,A.cj(A.a([p,o,A.bJ(A.aFX(A.cj(A.a([n,l,k,j,i,h,g,f,e,m,A.bf((d==null?$.V=B.m:d).aC(0,a0,a2).CW.r,a0,A.bj().$3$color$fontSize$fontWeight(B.i,16,B.aj),B.X)],c),B.y,B.z,B.r)),s*0.6,q*0.8),A.a1(s*0.15),A.dm(A.a([A.a1(q*0.15),A.bf("Skills:",a0,A.bj().$3$color$fontSize$fontWeight(B.i,18,B.aj),B.X),A.a1(b),A.hh("vectors/flutter.png",B.x,a0,a),A.a1(b),A.hh("vectors/django.png",B.x,a0,a),A.a1(b),A.hh("vectors/android.png",B.x,a0,a),A.a1(b),A.hh("vectors/java.png",B.x,a0,a)],c),B.y,B.z,B.r)],c),B.y,B.z,B.r)],c),B.y,B.z,B.r),B.n,B.be,a0,a0,s*1.1,a0,a0,a0)}}
+return A.bB(a0,A.cj(A.a([r,A.cj(A.a([p,o,A.bJ(A.aFX(A.cj(A.a([n,l,k,j,i,h,g,f,e,m,A.bf((d==null?$.V=B.m:d).aC(0,a0,a2).CW.r,a0,A.bj().$3$color$fontSize$fontWeight(B.i,16,B.aj),B.X)],c),B.y,B.z,B.r)),s*0.6,q*0.8),A.a1(s*0.15),A.dm(A.a([A.a1(q*0.15),A.bf("Skills:",a0,A.bj().$3$color$fontSize$fontWeight(B.i,18,B.aj),B.X),A.a1(b),A.hh("assets/vectors/flutter.png",B.x,a0,a),A.a1(b),A.hh("assets/vectors/django.png",B.x,a0,a),A.a1(b),A.hh("assets/vectors/android.png",B.x,a0,a),A.a1(b),A.hh("assets/vectors/java.png",B.x,a0,a)],c),B.y,B.z,B.r)],c),B.y,B.z,B.r)],c),B.y,B.z,B.r),B.n,B.be,a0,a0,s*1.1,a0,a0,a0)}}
 A.i3.prototype={
 M(a){var s=null,r=A.bC(a,s,t.w).w.a,q=r.a,p=r.b
 return A.bB(s,A.ks(B.c2,A.a([A.bB(s,s,B.n,s,s,B.Ck,p*0.08,s,s,q*0.1),A.ti(0,A.bf(this.d,s,A.b8S().$3$color$fontSize$fontWeight(B.i,this.c,B.bG),s),s,s,q*0.05,s,p*0.007,s)],t.p),B.V,B.bQ),B.n,B.F,s,s,s,s,s,q*0.3)}}
@@ -98431,7 +98431,7 @@ q.b9()
 r[1]=Math.tan(10)
 r[4]=Math.tan(9)
 a6=a6.a
-r=A.ti(a,A.GK(B.x,A.lK("vectors/blob.svg",B.II,B.dk,s*1.4,a6*1.2),a,q,!0),a,a,a,-450,-300,a)
+r=A.ti(a,A.GK(B.x,A.lK("assets/vectors/blob.svg",B.II,B.dk,s*1.4,a6*1.2),a,q,!0),a,a,a,-450,-300,a)
 p=A.a1(s*0.17)
 o=A.bB(a,A.fH(A.bf(a0,a,A.bj().$3$color$fontSize$fontWeight(B.i,20,B.bG),a),a,a),B.n,a,a,B.mU,s*0.09,a,a,a6*0.09)
 n=A.a1(s*0.015)
@@ -98563,7 +98563,7 @@ M(a){var s=A.bC(a,null,t.w).w
 A.ou($.br(),A.p2(),t.d)
 return new A.jf(new A.ax6(this,s.a),null)}}
 A.ax6.prototype={
-$2(a3,a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=this,a0=null,a1="assets/vectors/icon1.svg",a2=a4.b
+$2(a3,a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=this,a0=null,a1="assets/assets/vectors/icon1.svg",a2=a4.b
 if(a2>1200){a2=a.b
 s=a2.b
 r=A.a1(s*0.05)
@@ -98629,7 +98629,7 @@ s=A.Aa(9)
 r=A.a([new A.dr(6,B.aJ,A.Y(204,39,50,62),B.eY,25)],t.W)
 q=g*0.02
 p=A.a1(h*0.03)
-o=A.lK("vectors/icon1.svg",i,B.br,h*0.1,i)
+o=A.lK("assets/vectors/icon1.svg",i,B.br,h*0.1,i)
 n=h*0.02
 m=A.a1(n)
 $.br()
@@ -98655,7 +98655,7 @@ r=A.Aa(9)
 i*=0.02
 q=j*0.07
 p=A.a1(q)
-q=A.lK("vectors/icon1.svg",k,B.br,q,k)
+q=A.lK("assets/vectors/icon1.svg",k,B.br,q,k)
 j*=0.02
 o=A.a1(j)
 $.br()
