@@ -98065,7 +98065,7 @@ k=e*0.003
 j=$.V
 i=f*0.013
 h=t.p
-return A.bB(g,A.dm(A.a([r,q,A.bJ(A.cj(A.a([p,o,n,m,l,new A.cc(new A.aF(k,0,k,0),A.bf((j==null?$.V=B.m:j).aC(0,g,s).cx[b].c,g,A.bj().$3$color$fontSize$fontWeight(B.i,12,B.j),B.X),g),A.a1(f*0.07),A.dm(A.a([A.a1(i),new A.ma(e,"assets/vectors/github.png",new A.axF(b),g),A.a1(i)],h),B.y,B.z,B.r)],h),B.y,B.z,B.r),g,e*0.25)],h),B.y,B.z,B.r),B.n,g,g,new A.cS(B.bt,g,g,g,d,g,B.a8),g,g,g,e*0.7)},
+return A.bB(g,A.dm(A.a([r,q,A.bJ(A.cj(A.a([p,o,n,m,l,new A.cc(new A.aF(k,0,k,0),A.bf((j==null?$.V=B.m:j).aC(0,g,s).cx[b].c,g,A.bj().$3$color$fontSize$fontWeight(B.i,12,B.j),B.X),g),A.a1(f*0.07),A.dm(A.a([A.a1(i),new A.ma(e,"vectors/github.png",new A.axF(b),g),A.a1(i)],h),B.y,B.z,B.r)],h),B.y,B.z,B.r),g,e*0.25)],h),B.y,B.z,B.r),B.n,g,g,new A.cS(B.bt,g,g,g,d,g,B.a8),g,g,g,e*0.7)},
 $S:84}
 A.axF.prototype={
 $0(){var s,r=$.f5()
